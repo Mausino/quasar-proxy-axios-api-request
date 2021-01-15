@@ -19,7 +19,7 @@ src/pages/PlaceHolder.vue
 
 1. Node API 
 ```bash
-cd quasar_v1_axios_api_example_requests
+cd quasar-proxy-axios-api-request 
 cd base-server-master
 yarn install
 node index.js
@@ -34,7 +34,7 @@ node index.js
 
 ## Install the dependencies
 ```bash
-cd quasar_v1_axios_api_example_requests
+cd quasar-proxy-axios-api-request 
 yarn install
 ```
 
