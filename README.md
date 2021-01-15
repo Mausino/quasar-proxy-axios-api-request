@@ -17,11 +17,19 @@ src/pages/PlaceHolder.vue
 
 
 
-1. Node API -> $ cd base-server-master -> $ yarn install -> $ node index.js (now you're created http://localhost:3001 Api Endpoint)
-  - the json you'll find on http:// localhost:3001/api/resources
+1. Node API 
+```bash
+cd quasar_v1_axios_api_example_requests
+cd base-server-master
+yarn install
+node index.js
+```
+
+- (now you're created http://localhost:3001 Api Endpoint)
+- the json you'll find on http://localhost:3001/api/resources
   
- 2. Json Placeholder API endpoint - https://jsonplaceholder.typicode.com  
-  - we will fetch API by https://jsonplaceholder.typicode.com/posts
+2. Online Json Placeholder API endpoint - https://jsonplaceholder.typicode.com  
+  - we will fetch API on https://jsonplaceholder.typicode.com/posts
 
 
 ## Install the dependencies
